@@ -50,5 +50,4 @@ function divisao () {
 ... var num2 = 2;
 ... return num1 / num2;
 ... }
-
 divisao()
